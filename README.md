@@ -16,7 +16,7 @@
 </p>
 
 <!-- Personal Information -->
-<br>
+
 <br>
 <div style="text-align:center; padding: 20px; border-radius: 10px; background-color: #f5f5f5;">
   <h2 style="color: #333;">👋 About Me</h2>
@@ -40,7 +40,7 @@
 
         
 <br>
-<br>
+
         
       
         
