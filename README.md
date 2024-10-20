@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm KHARBOUCHE BILAL</h1>
 <h3 align="center">AI & Data Science Specialist | Master's in Artificial Intelligence | Passionate about Machine Learning, Reinforcement Learning, and Big Data</h3>
 
-<samp>
 <p align="center">
   <img style="width: 200px; height: 200px;" src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
   <img style="width: 100px; height: 150px; margin-bottom: 30px;" src="https://png.pngtree.com/png-clipart/20230813/original/pngtree-idea-creative-electricity-electric-vector-picture-image_10541604.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
@@ -137,13 +136,6 @@ These are some of the technologies and tools that I work with:
   
 </table>
 
-
-
-
-
-
-
-
 ---
 
 #### :octocat:  My Github Stats
@@ -162,12 +154,8 @@ These are some of the technologies and tools that I work with:
 <h5 align="center">Keep Pushing Forward</h5>
 <hr>
 
-
-
-
 ---
 
-</samp>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kharbouchebilal&show_icons=true&locale=en&layout=compact" alt="kharbouchebilal" /></p>
