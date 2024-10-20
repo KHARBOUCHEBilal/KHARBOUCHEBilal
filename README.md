@@ -154,12 +154,4 @@ These are some of the technologies and tools that I work with:
 <h5 align="center">Keep Pushing Forward</h5>
 <hr>
 
----
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kharbouchebilal&show_icons=true&locale=en&layout=compact" alt="kharbouchebilal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kharbouchebilal&show_icons=true&locale=en" alt="kharbouchebilal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kharbouchebilal&" alt="kharbouchebilal" /></p>
