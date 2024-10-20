@@ -2,10 +2,11 @@
 <h3 align="center">AI & Data Science Specialist | Master's in Artificial Intelligence | Passionate about Machine Learning, Reinforcement Learning, and Big Data</h3>
 
 <p align="center">
-  <img style="width: 200px; height: 200px;" src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-blue-illustration-png-image_6654955.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
-  <img style="width: 100px; height: 150px; margin-bottom: 30px;" src="https://png.pngtree.com/png-clipart/20230813/original/pngtree-idea-creative-electricity-electric-vector-picture-image_10541604.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
-  <img style="width: 200px; height: 200px;" src="https://png.pngtree.com/png-vector/20230321/ourmid/pngtree-artificial-intelligence-robot-illustration-png-image_6654937.png?e=1706140800&v=beta&t=gc5Z935RfYbohKwaXk4YLVYHccTkLiFPumaYbunhowc" alt="header"/>
+  <img style="width: 200px; height: 200px;" src="https://images.unsplash.com/photo-1543691940-800cd43e17c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGFydGlmaWNpYWwlMjBpbWFnZXxlbnwwfHx8fDE2OTAyNDA0NDE&ixlib=rb-1.2.1&q=80&w=200" alt="header"/>
+  <img style="width: 100px; height: 150px; margin-bottom: 30px;" src="https://images.unsplash.com/photo-1596483715054-2d007bc3cbf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxjcmVhdGl2ZSUyMGxpbmt8ZW58MHx8fHwxNjkwMjQwNDY2&ixlib=rb-1.2.1&q=80&w=100" alt="header"/>
+  <img style="width: 200px; height: 200px;" src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fHJvYm90fGVufDB8fHx8MTY5MDI0MDQ5NA&ixlib=rb-1.2.1&q=80&w=200" alt="header"/>
 </p>
+
 
 
 
