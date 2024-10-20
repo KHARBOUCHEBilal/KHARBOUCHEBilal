@@ -146,10 +146,6 @@ These are some of the technologies and tools that I work with:
 </a>
 </p>
 
-
-
----
-
 <hr>
 <h5 align="center">Keep Pushing Forward</h5>
 <hr>
