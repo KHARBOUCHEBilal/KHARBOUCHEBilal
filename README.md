@@ -73,6 +73,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-C++-787CB5?style=for-the-badge&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-DART-700CB5?style=for-the-badge&logo=Dart%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/-SCSS-ed960b?style=for-the-badge&logo=scss%2B%2B&logoColor=White" />
+      <img src="https://img.shields.io/badge/-Assembly-6E4C9C?style=for-the-badge&logo=assembly&logoColor=white" /> <!-- Added Assembly -->
     </td>
   </tr>
   <tr>
@@ -122,7 +123,7 @@ These are some of the technologies and tools that I work with:
     <th>Markup/Markdown</th>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
     </td>
   </tr>
@@ -133,7 +134,21 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
     </td>
   </tr>
-  
+  <tr>
+    <th>Hardware</th>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-%23C2185B.svg?style=for-the-badge&logo=arduino&logoColor=white" /> <!-- Added Arduino -->
+      <img src="https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" /> <!-- Added Raspberry Pi -->
+      <img src="https://img.shields.io/badge/NVIDIA_Jetson-%23FFB300.svg?style=for-the-badge&logo=nvidia&logoColor=white" /> <!-- Added NVIDIA Jetson -->
+    </td>
+  </tr>
+  <tr>
+    <th>Competitive Programming</th>
+    <td>
+      <img src="https://img.shields.io/badge/Codeforces-%230A0FFF.svg?style=for-the-badge&logo=codeforces&logoColor=white" /> <!-- Added Codeforces -->
+      <img src="https://img.shields.io/badge/Capture_The_Flag-%230D4C8A.svg?style=for-the-badge&logo=flag&logoColor=white" /> <!-- Added CTF -->
+    </td>
+  </tr>
 </table>
 
 ---
