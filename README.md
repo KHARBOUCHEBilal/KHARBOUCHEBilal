@@ -128,13 +128,6 @@ These are some of the technologies and tools that I work with:
     </td>
   </tr>
   <tr>
-    <th>Others</th>
-    <td>
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <th>Hardware</th>
     <td>
       <img src="https://img.shields.io/badge/Arduino-%23C2185B.svg?style=for-the-badge&logo=arduino&logoColor=white" /> <!-- Added Arduino -->
@@ -146,10 +139,24 @@ These are some of the technologies and tools that I work with:
     <th>Competitive Programming</th>
     <td>
       <img src="https://img.shields.io/badge/Codeforces-%230A0FFF.svg?style=for-the-badge&logo=codeforces&logoColor=white" /> <!-- Added Codeforces -->
-      <img src="https://img.shields.io/badge/Capture_The_Flag-%230D4C8A.svg?style=for-the-badge&logo=flag&logoColor=white" /> <!-- Added CTF -->
+      <img src="https://img.shields.io/badge/Hack_The_Box-%2310B981.svg?style=for-the-badge&logo=flag&logoColor=white" /> <!-- Modified CTF to include Hack The Box in green -->
+      <img src="https://img.shields.io/badge/Capture_The_Flag-%230D4C8A.svg?style=for-the-badge&logo=flag&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Project Management</th>
+    <td>
+      <img src="https://img.shields.io/badge/Scrum-%23000000.svg?style=for-the-badge&logo=scrum&logoColor=white" /> <!-- Added Scrum -->
+    </td>
+  </tr>
+  <tr>
+    <th>Others</th>
+    <td>
+      <!-- You can add more skills or technologies here -->
     </td>
   </tr>
 </table>
+
 
 
 ---
