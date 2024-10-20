@@ -147,15 +147,11 @@ These are some of the technologies and tools that I work with:
     <th>Project Management</th>
     <td>
       <img src="https://img.shields.io/badge/Scrum-%23000000.svg?style=for-the-badge&logo=scrum&logoColor=white" /> <!-- Added Scrum -->
-    </td>
-  </tr>
-  <tr>
-    <th>Others</th>
-    <td>
-      <!-- You can add more skills or technologies here -->
+      <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /> <!-- Added Jira -->
     </td>
   </tr>
 </table>
+
 
 
 
