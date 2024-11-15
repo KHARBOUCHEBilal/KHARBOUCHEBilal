@@ -2,9 +2,9 @@
 <h3 align="center">AI & Data Science Specialist | Master's in Artificial Intelligence | Passionate about Machine Learning, Reinforcement Learning, and Big Data</h3>
 
 <p align="center">
-  <img style="width: 200px; height: 200px;" src="https://github.com/user-attachments/assets/2a601bb8-6993-49de-a142-33b396b94ead" alt="Programming"/>
+  <img style="width: 851px; height: 315px" src="https://github.com/user-attachments/assets/2a601bb8-6993-49de-a142-33b396b94ead" alt="Programming"/>
 </p>
-![opt 2](https://github.com/user-attachments/assets/2a601bb8-6993-49de-a142-33b396b94ead)
+
 
 
 
