@@ -2,10 +2,9 @@
 <h3 align="center">AI & Data Science Specialist | Master's in Artificial Intelligence | Passionate about Machine Learning, Reinforcement Learning, and Big Data</h3>
 
 <p align="center">
-  <img style="width: 200px; height: 200px;" src="https://images.unsplash.com/photo-1514998009551-58212f8a4e4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHByb2dyYW1taW5nfGVufDB8fHx8MTY5MDI0OTAwMA&ixlib=rb-1.2.1&q=80&w=200" alt="Programming"/>
-  <img style="width: 100px; height: 150px; margin-bottom: 30px;" src="https://images.unsplash.com/photo-1629364392159-0c6340f8eb7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDl8fGFydGlmaWNpYWwlMjBhbmQlMjBwcm9ncmFtbWluZ3xlbnwwfHx8fDE2OTAyNTAwOTI&ixlib=rb-1.2.1&q=80&w=100" alt="AI Programming"/>
-  <img style="width: 200px; height: 200px;" src="https://images.unsplash.com/photo-1516728778615-2d3a56334b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxyb2JvdHxlbnwwfHx8fDE2OTAyNTAwNjA&ixlib=rb-1.2.1&q=80&w=200" alt="Robotics"/>
+  <img style="width: 200px; height: 200px;" src="https://github.com/user-attachments/assets/2a601bb8-6993-49de-a142-33b396b94ead" alt="Programming"/>
 </p>
+![opt 2](https://github.com/user-attachments/assets/2a601bb8-6993-49de-a142-33b396b94ead)
 
 
 
