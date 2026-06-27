@@ -34,7 +34,6 @@
 <h3>Contact Me</h3>
 <ul style="list-style-type: none; padding: 0;">
     <li>✉️ Email: <a href="mailto:bilal.kharbouche99@gmail.com">bilal.kharbouche99@gmail.com</a></li>
-    <li>📞 Phone: +212 06 1604 7090</li>
     <li>🌐 Website: <a href="https://kharbouche.com">https://kharbouche.com</a></li>
     <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/bilal-kharbouche/">Bilal Kharbouche</a></li>
 </ul>
